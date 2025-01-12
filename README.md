@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+You have to implement a common application to Linked List: Polynomial ADT. In this project you have to implement Multiplication, Addition, and Subtraction of polynomials.
